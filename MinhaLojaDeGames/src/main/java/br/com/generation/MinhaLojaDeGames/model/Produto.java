@@ -1,4 +1,4 @@
-package br.com.generation.minhaLojaDeGames.model;
+package br.com.generation.MinhaLojaDeGames.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
